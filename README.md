@@ -1,6 +1,6 @@
 # Semantic-segmentation-using-UNet
 
-
+<img src="./images/img1.jpg">
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
@@ -33,7 +33,5 @@ UNet evolved from the traditional convolutional neural network. It was designed 
 ### Results
 The network achieved an accuracy of 97.0%.
 
-
-
-
-In biomedical research, you are not only required to distinguish whether there is a disease, but also to localise the area of abnormality. UNet is able to solve this problem, as it is performs classification on every pixel, so the input & the output share the same size.
+<img src="./images/img2.jpg">
+<img src="./images/img3.jpg">
